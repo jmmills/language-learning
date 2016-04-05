@@ -10,6 +10,7 @@ Implment and compose unit tests for each of these file operations:
 * Open, read, and print in hexadecimal the contents of a binary file as specified as a cli argument
 * Accept input on standard input, write that input to a file specified as a cli argument
 * Accept input on standard input, append that input to a file specified as a cli argument
+* Open a file specificed as a cli argument, read and print any new lines written to the file (see unix tail command)
 
 ## Complex
 
